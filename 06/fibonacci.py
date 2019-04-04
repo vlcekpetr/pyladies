@@ -9,7 +9,7 @@ count = 0
     elif nterms == 1:
         print("Fibonacci sequence upto", nterms, ":")
         print(n1)
-    else:
+    else
         print("Fibonacci sequence upto", nterms, ":")
         while count < nterms:
             print(n1)
